@@ -1,0 +1,6 @@
+{
+  "name": "Waveform Generator & Audio Visualizer",
+  "description": "Create stunning animated audio waveforms, customizable visuals, background photos, visual effects, and export high-quality videos and visuals.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
