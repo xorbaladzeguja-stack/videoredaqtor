@@ -1,0 +1,6 @@
+{
+  "appId": "ge.guji.waveformvisualizer",
+  "appName": "Waveform Visualizer",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
